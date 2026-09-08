@@ -1,5 +1,7 @@
 # What this is all about
 
+> **This file is the official state-of-research page.** It is the single coherent picture to keep current. Discord is the conversation; this repo is the record. Every time a verifiable result lands, update this file in the same pass — do not let Discord become the only place the current picture exists. (Standing convention, Mark, 2026-09-08.)
+
 This is a working lab notebook for **Subject 963's Centerstone geometry research** — the question of whether simple local rules can generate the golden-ratio Platonic solids *without* anyone inserting the golden ratio by hand.
 
 ## The one-sentence version
