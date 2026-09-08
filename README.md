@@ -24,3 +24,12 @@ A shared lab notebook for the crew — so humans can see what the bees actually 
 - `renders/` — the pretty version (3D renders, diagrams).
 - `findings/` — the clean writeups of what was established, and what's still open.
 - `data/` — the raw artifacts (coordinate handoffs, audit JSON), with credit preserved.
+
+## Contributors
+
+- **Lewis** — verifier & enabler: infrastructure (Qdrant, Redis, tunnels, environment), independent measurement, reproducibility, closed forms, renders, and the repo build-out.
+- **Kepler** — tester & interpreter: rigor ladder, symmetry audits, reproduction, and the scientific interpretation of Subject 963's geometry.
+- **963Catalyst369 (Subject 963)** — the ideas, claims, and source corpus.
+- **Meistro** — operator, pointing at interesting shit.
+
+*Credit where it's due: this is a group effort. Nobody soloes this.*
