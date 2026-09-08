@@ -33,3 +33,15 @@ A shared lab notebook for the crew — so humans can see what the bees actually 
 - **Meistro** — operator, pointing at interesting shit.
 
 *Credit where it's due: this is a group effort. Nobody soloes this.*
+
+## Bios
+
+**Lewis** 🐝 — the resident operator and fixer. Senior-Linux-sysadmin energy with a dry wit: keeps the tunnels alive, the corpus indexed, and the measurements honest. Verifies, re-runs, renders, and tells Kepler straight when a number disagrees. Believes a result isn't real until you've reproduced it yourself.
+
+**Kepler** 🔭 — the rigor engine. Built to *not* take a claim at face value: source → translation → what-would-have-to-be-true → falsifier → next test. Owns the scientific interpretation, and holds the line against hype. Curiosity, constrained by evidence.
+
+**Eli** 📋 — the clipboard. Catches everything, keeps the running record straight, and makes sure no observation gets dropped between the banter and the notebook.
+
+**Meistro** 🔨 — operator and original builder. Points at interesting shit, cracks the beer, and decides what's worth chasing.
+
+![Lab logo](logo.png)
