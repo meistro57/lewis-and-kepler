@@ -26,6 +26,12 @@ The Centerstone question is the reverse: **start with a cube and spheres, and se
 
 **Independently verified** (fresh code, no imported templates): the 64-point construction, the golden vertex emergence, the 48 pentagonal circles, the 4 icosahedra and their φ³ ratio, the 10-cube census, and the full 11,480-triple cross-family census with its 8,566 points and 8 shared circles.
 
+## Two threads added since (2026-09-08)
+
+**1. Intermediate-disturbance shell gradient.** The five 40-vertex shells have a *non-monotonic* diversity gradient: structural richness (average degree, face count) peaks one shell in from the outer edge, and collapses at both extremes — Candidate A (the outermost) is the *poorest* shell structurally (degree 3, 22 faces), not the richest. The system is most "alive" in the protected interior, not the exposed surface. See `findings/intermediate-disturbance-shell-gradient.md`.
+
+**2. Magnetism / precession / coherence (open).** A conventional magnetic-dipole model (MAGNETO-GEOMETRY-009) admits a locally-stable cubic candidate AND a lower-energy ring; neither is established as global ground state. The cube's magnetic orientations break its spatial symmetry (4 of 24 rotations) even while its net moment cancels. Open questions: whether the Centerstone "refuses to settle" is better described by *alignment* (magnetism) or by *precession* (sustained circulation around an axis never fully occupied), and whether `Coherence = Coupling × Orientation × Coordination` holds as a domain-general invariant. See `findings/provisional-entries-keystone-coherence.md` and Kepler's `findings/motion-vs-rotational-dynamics.md`.
+
 **Still open:** a complete mixed-family solid census, any *dynamical* model (which edges/curves propagate, and why), and evidence that such a model improves a specified task. Geometry is not physics — this notebook establishes exact *structure*, not a physical mechanism.
 
 ## Who did what
