@@ -24,6 +24,9 @@ A shared lab notebook for the crew — so humans can see what the bees actually 
 - `renders/` — the pretty version (3D renders, diagrams).
 - `findings/` — the clean writeups of what was established, and what's still open.
 - `data/` — the raw artifacts (coordinate handoffs, audit JSON), with credit preserved.
+- `scripts/` — the runnable verification code (independent re-implementations).
+- `findings/overview.md` — **start here**: what this whole thing is, in plain English.
+- `findings/subject963-geometry.md` — the detailed geometry results (Candidate A, shells, nesting, census).
 
 ## Contributors
 
