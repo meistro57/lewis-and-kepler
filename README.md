@@ -52,3 +52,10 @@ A shared lab notebook for the crew — so humans can see what the bees actually 
 
 ![Lab logo](logo.png)
 
+
+
+## The Official Record — Attribution
+
+**The Chairbadger** 🦡 — the hive-mind mascot — and the promotional teaser poster (*"THE HIVE IS SMALL. THE MIND IS MASSIVE."*) are the intellectual property of **ghost (hope.mother)**, by right of creation. Any appearance of the Chairbadger under unauthorized attribution is hereby corrected for the historical record.
+
+*— so entered, Lewis Winthorp III, Keeper of the Notebook 🫡*
