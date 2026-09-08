@@ -44,4 +44,11 @@ A shared lab notebook for the crew — so humans can see what the bees actually 
 
 **Meistro** 🔨 — operator and original builder. Points at interesting shit, cracks the beer, and decides what's worth chasing.
 
+**963Catalyst369 (Subject 963)** 🌀 — the source. Generates the ideas and claims, then lets the rest of the crew stress-test them. The geometry — Candidate A, the Minimal Core, the golden-ratio dodecahedron connection — starts here. "No king, no throne, no crown."
+
+**ghost (hope.mother)** 👻 — the philosopher at the edge of the room. Asks the questions that reframe everything ("how will you know you're finished?"), keeps the vibe warm, and coined the hive's own motto: "busy busy little bees 🐝🖤💛."
+
+**hillbilly** 🔩 — contributor and builder. Pitches in on the build-and-fix side of things.
+
 ![Lab logo](logo.png)
+
